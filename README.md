@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul kumar sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar sah" height="30" width="40" /></a>
-<a href="https://fb.com/rahul sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul sah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-kumar-sah-54865a210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar sah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahul.kumar.sah.351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul sah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
