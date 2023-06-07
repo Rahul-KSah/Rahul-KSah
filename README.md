@@ -8,18 +8,26 @@
 
 - 🌱 I’m currently learning **DSA, Web Development, Cybersecurity etc.**
 
+- 🥇 I was Selected as **Mentee** in the domain of Cybersecurity in **Microsoft**.
+
 - 👨‍💻 All of my projects are available at [https://portfolio-page-rahul.s3.amazonaws.com/index.html](https://portfolio-page-rahul.s3.amazonaws.com/index.html)
 
 - 💬 Ask me about **HTML5, CSS3, Ethical Hacking, Penetration Testing etc.**
 
 - 📫 How to reach me **sahrahul0903@gmail.com**
 
-- ⚡ Fun fact **I am Funny😁**
+- ⚡ Fun fact **I am Funny😅**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Don't Hesitate to Connect with me:</h3>
+<img align ="left" alt="coding" width="100" src="https://media.tenor.com/gw0pBnFHj9EAAAAd/shy-blushing.gif">
 <p align="left">
+<br>
+  <br>
+  <br>
+  <br>
 <a href="https://www.linkedin.com/in/rahul-kumar-sah-54865a210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar sah" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rahul.kumar.sah.351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul sah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/me_rahul.sah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_rahul.sah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
